@@ -14,7 +14,7 @@
 
       }
       else{
-         console.log("red");
+         console.log("Red");
       }
     }
  }
